@@ -1,0 +1,223 @@
+.headermain{
+    padding-bottom: 5%;
+    padding-top: 5%;
+
+}
+.companyLogo{
+    width: 130px;
+    max-width: fit-content;
+}
+.btnHeader{
+    display: flex;
+    align-items: center;
+    gap: 2px;
+    font: medium;
+    padding-bottom: 4px;
+    padding-top: 4px;
+    padding-left:12px;
+    padding-right: 12px;
+    border: 1px solid black;
+    box-shadow: 7px 7px 7px black;
+
+
+
+}
+.headerSec{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.Headerthree{
+    text-align: center;
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
+.Headerthree h1{
+    font: medium;
+    font-size: 40px;
+    color: black;
+    font-weight: 600;
+}
+.Headerthree p{
+    max-width: 740px;
+    margin: auto;
+    font-weight: 400;
+}
+.form{
+    display: flex;
+    justify-content: space-between;
+    max-width: 500px;
+    /* scale: 75; */
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    /* border: 2px solid black; */
+    box-shadow: 7px 7px 7px black;
+}
+ input{
+    outline: none;
+    padding-left: 16px;
+    
+}
+.HeaderthreeBtn{
+    border: 1px solid black;
+    padding: 16px;
+    color: white;
+}
+.HeaderthreeBtn:hover{
+    background-color: lightgreen;
+
+}
+.Blogmain{
+    max-width: 330px;
+    background-color: white;
+    border: black;
+
+}
+.Blogmain:hover{
+box-shadow: 7px 7px 0px black;
+
+}
+.Blogmain img{
+    border-bottom: black;
+}
+.p-one {
+    margin-left: 20px;
+    margin-top: 20px;
+    padding-left: 4px;
+    padding-right: 4px;
+    display: inline-block;
+    background-color: black;
+    color: white;
+    font-size: small;
+}
+.blogmainone{
+    padding: 20px;
+
+}
+.blogmainone h5{
+    margin-bottom: 20px;
+    font-size: medium;
+    font-size: large;
+    color: gray;
+    font-weight: 900;
+}
+.p-two{
+    margin-bottom: 12px;
+    font-size: small;
+    color: gray;
+    font-weight: 700;
+
+}
+.blogs{
+    display: inline-flex;
+    align-items: center;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    text-align: center;
+    font-weight: 600;
+
+}
+.blogs img {
+    margin-left: 8px;
+}
+.bloglistmain{
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+
+}
+.btn-one{
+    background-color: #000;
+    color: white;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-left: 16px;
+    padding-right: 16px;
+    border-radius: 4px;
+
+}
+.bloglist-one{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 4px;
+    row-gap: 40px;
+    margin-bottom: 48px;
+
+    
+}
+.footermain{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    gap: 8px;
+    background-color: #000;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    align-items: center;
+  
+
+}
+
+.footermain-p{
+    font-size: small;
+    color: white;
+
+}
+.Page-one{
+    background-color: gray;
+    font-weight: 200;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+
+}
+.Page-two{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.Page-two img{
+    width: 130px;
+}
+.Page-two-btn{
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: medium;
+    padding-top:4px ;
+    padding-bottom: 4px;
+    padding-left: 12px;
+    padding-right: 12px;
+    border: 1px solid black;
+    box-shadow: 7px 7px 0px black;
+}
+.page-three{
+    text-align: center;
+    margin-top: 96px;
+    margin-bottom: 96px;
+
+}
+.page-three h1{
+    font-size: xx-large;
+    font-weight: 600;
+    max-width: 700px;
+    
+    
+}
+.page-three img{
+    margin-top: 24px;
+    border: 1px solid white;
+    border-radius: 50%;
+
+}
+.page-three p{
+    margin-top: 4px;
+    padding-bottom: 8px;
+    font-size:large;
+    max-width: 740px;
+
+}
