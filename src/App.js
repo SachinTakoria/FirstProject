@@ -6,8 +6,10 @@ import Bloglist from './components/Bloglist'
 import Footer from './components/Footer'
 
 const App = () => {
+
   return (
     <div>
+      <h1>Heelo</h1>
      <Header/>
      {/* <Blogitem/> */}
      <Bloglist/>
